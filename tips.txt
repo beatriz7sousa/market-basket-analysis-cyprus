@@ -1,0 +1,27 @@
+number the slides
+
+structure:
+1. opening: position (customer segmentation), action, benefits (in terms of return on investment and business terms): (current situation, complications and impact)
+2. organization
+3. closing: we should repeat the goals and the problems and situations, to repeat what were the solutions that we found, to keep the audience's attention.
+
+start the presentation with the story
+
+
+
+
+
+DOUBTS Q&A:
+- there are some products that have TotalAmount variable as 0. should we consider it as an offer to the client? YES, IGNORE IT.
+
+- if the lift is near 1, that is the expected behaviour. so, if the lift is lower than 1, it means that the products are substitutes, in the sense that when the consequent is present is not probable that the antecedent will be also present.
+
+- maximum and minimum of the price of products
+
+- DIVIDE THE DATASET BY WEATHER, OR LOWER THE SUPPORT VALUE TO FIND RULES FOR THAT
+
++ acrescentar uma variável para o dia da semana e se é almoço ou jantar!! DONE
+
++ acrescentar regras para famílias de pordutos em vez de para os produtos em si!
+
++ ver a proporção de pessoas que fazem alterações aos pedidos (WITH or NO)!! DONE
